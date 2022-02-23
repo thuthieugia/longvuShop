@@ -1,0 +1,5 @@
+c:\users\log vu\documents\visual studio 2013\Projects\LongVuShop\LongVuShop.Common\bin\Debug\LongVuShop.Common.dll
+c:\users\log vu\documents\visual studio 2013\Projects\LongVuShop\LongVuShop.Common\bin\Debug\LongVuShop.Common.pdb
+c:\users\log vu\documents\visual studio 2013\Projects\LongVuShop\LongVuShop.Common\obj\Debug\LongVuShop.Common.csprojResolveAssemblyReference.cache
+c:\users\log vu\documents\visual studio 2013\Projects\LongVuShop\LongVuShop.Common\obj\Debug\LongVuShop.Common.dll
+c:\users\log vu\documents\visual studio 2013\Projects\LongVuShop\LongVuShop.Common\obj\Debug\LongVuShop.Common.pdb
